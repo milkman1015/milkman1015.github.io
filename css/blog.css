@@ -1,0 +1,16 @@
+/* style for blog posts */
+
+/* style for the header of the blog */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header h1 {
+    margin 0;
+}
+
+.header .date {
+    font-size: 1em;
+}
